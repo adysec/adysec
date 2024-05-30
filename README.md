@@ -1,7 +1,7 @@
 ### Hi there! I'm AdySec👋
 
 - 🔭 I like to explore new technologies and develop software solutions and  security research.
-- 🌱 I’m currently learning C++ and security research.
+- 🌱 I’m currently learning Rust and security research.
 - 🤔 My website: https://adysec.com
 
 ### 🛠 &nbsp;Tech Stack
