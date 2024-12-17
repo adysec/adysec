@@ -26,5 +26,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adysec&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true" width="94%" />
 </p>
 
-By the way, I do not authorize `gitcode.com` to move accounts and accounts. Account is not under personal control. Fxxk Gitcode.
 
