@@ -7,8 +7,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![Rust](https://img.shields.io/badge/-RUST-05122A?style=flat&logo=rust)&nbsp;
+![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
