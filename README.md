@@ -10,6 +10,8 @@
 - 📫 Contact: admin@adysec.com
 - 🎯 Goals: Continuously improve in systems programming, Rust, Python, and security research.
 
+Fuck GitCode and XPlaza—ripping off GitHub repos without asking is total bullshit!
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Rust](https://img.shields.io/badge/-RUST-05122A?style=flat&logo=rust)&nbsp;
