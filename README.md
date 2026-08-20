@@ -9,6 +9,7 @@
 - 📘 Site Introduction: [site.md](site.md)
 - 📫 Contact: admin@adysec.com
 - 🎯 Goals: Continuously improve in systems programming, Rust, Python, and security research.
+- 💓 Believe: Everybody love to dancing with shackles on.
 
 Fuck GitCode and XPlaza—ripping off GitHub repos without asking is total bullshit!
 
