@@ -1,11 +1,11 @@
 ### Hi there! I'm AdySec👋
 
 - 🔭 I like to explore new technologies, develop software solutions, and conduct security research.
-- 🌱 I’m currently learning Rust and Python, aiming to build efficient and secure applications.
+- 🌱 I’m currently learning Rust and Python, aiming to build efficient and ~~secure applications~~.
 - 🦀 Rust is everywhere — I enjoy leveraging it for systems programming and performance-critical projects.
-- 💡 Passionate about cybersecurity, penetration testing, and secure software development.
-- 💻 Projects: I work on open-source tools and research exploits and security defenses.
-- 🌐 My website: [adysec.com](https://adysec.com)
+- 💡 Passionate about ~~cybersecurity, penetration testing, and secure software development~~.
+- 💻 Projects: I work on ~~open-source tools and research exploits~~ and security defenses.
+- ~~🌐 My website: [adysec.com](https://adysec.com)~~
 - 📘 Site Introduction: [site.md](site.md)
 - 📫 Contact: admin@adysec.com
 - 🎯 Goals: Continuously improve in systems programming, Rust, Python, and security research.
