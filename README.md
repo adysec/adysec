@@ -6,7 +6,7 @@
 - 💡 Passionate about ~~cybersecurity, penetration testing, and secure software development~~.
 - 💻 Projects: I work on ~~open-source tools and research exploits~~ and security defenses.
 - ~~🌐 My website: [adysec.com](https://adysec.com)~~
-- 📘 Site Introduction: [site.md](site.md)
+- ~~📘 Site Introduction: [site.md](site.md)~~
 - 📫 Contact: admin@adysec.com
 - 🎯 Goals: Continuously improve in systems programming, Rust, Python, and security research.
 - 💓 Believe: Everybody love to dancing with shackles on.
